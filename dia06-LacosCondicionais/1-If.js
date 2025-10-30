@@ -9,7 +9,7 @@ nC = leia.questionInt("Digite o numero C: ")
 // Processamento e Saida de dados
 if (nA+nB>nC){
     console.log("A soma de A + B é maior que C")
-}if (nA+nB=nC){
+}if (nA+nB===nC){
     console.log("A soma de A + B é igual a C")
 }if (nA+nB<nC){
     console.log("A soma de A + B é menor que C")
